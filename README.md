@@ -35,7 +35,6 @@ The goal is to make data-driven decisions to improve **operational efficiency, p
 ## 📈 Key Insights (Sample)  
 - Peak admissions observed in **winter months** due to seasonal illnesses.  
 - **Cardiology and Emergency departments** have the highest patient load.  
-- Average **bed occupancy rate exceeds 85%**, indicating need for capacity planning.  
 - **Patient satisfaction** is positively correlated with reduced waiting times.  
 
 
